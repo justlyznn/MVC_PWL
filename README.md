@@ -1,5 +1,5 @@
 # mvc-example
-1. setelah clone jangan lupa update composer use "composer update"
+Setelah clone jangan lupa update composer use "composer update"
 
 Pada versi ini, digunakan style psr4 untuk autoloading.
 
